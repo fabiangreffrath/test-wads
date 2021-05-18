@@ -5,6 +5,7 @@ WAD file | Description | Author | Source
 --- | --- | --- | ---
 512x512.wad | The engine renders well textures 512px wide, but not taller than 256px. Example map updated for few additional segments: Bottom (bot),  Middle (mid), Top (top), Masked middle texture (mask). | @JNechaevsky | https://github.com/fabiangreffrath/crispy-doom/issues/162
 bmaps*.wad, brighttan.wad | Testing maps for brightmaps. They should be loaded depending of the game (Doom 1, 2 or TNT), because different games have/using slightly different names and textures. Also added few sprites, glowing sectors and upper/lower segmented walls. | @JNechaevsky | https://github.com/fabiangreffrath/crispy-doom/issues/246
+bothskies.wad | Check if engine can draw both visplanes with sky textures without HoM effect. | @JNechaevsky | -
 deadoof.wad | Oof sound by dead player (player should kill himself with rocket launcher). | @JNechaevsky | https://github.com/fabiangreffrath/test-wads/issues/1#issuecomment-733140322
 fakecontrast.wad | Fake contrast checking, "Mickey Mouse ears" with different curve distances. | @JNechaevsky | https://github.com/fabiangreffrath/test-wads/issues/1#issuecomment-733140322
 intercepts.wad | Just a pile of sprites in one place, as well as bunch of lines. Try to shoot through pile of 148 imps and BLOCKMAP will stop working. | @JNechaevsky | https://github.com/fabiangreffrath/crispy-doom/issues/227
