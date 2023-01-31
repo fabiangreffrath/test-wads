@@ -14,6 +14,7 @@ longtex2.wad | ﻿The wall with the torch is a texture that's 666px long but mad
 longwall.wad | Long wall wobble. | @JNechaevsky | https://github.com/fabiangreffrath/test-wads/issues/1#issuecomment-733140322
 medusa.wad | Medusa (careful! it silently crashes Chocolate Doom, DOS executable survives). | @JNechaevsky | https://github.com/fabiangreffrath/test-wads/issues/1#issuecomment-733140322
 odddoor.wad | Dead player beneath the door is able to see level's "out of bounds". | @JNechaevsky | https://github.com/fabiangreffrath/crispy-doom/issues/257#issuecomment-359877982
+spec_over.wad | Spechits overrun testing map: player is trapped into a bunch of sectors with teleport lines. Once player moves, it trigges overflow. | @JNechaevsky | https://github.com/fabiangreffrath/test-wads/issues/5
 switches3.wad | Checking texture changing with various applied textures to the top/middle/bottom (note: will have to be loaded with `-merge` in Choco). | @JNechaevsky, @jeffdoggett | https://github.com/fabiangreffrath/test-wads/issues/1#issuecomment-733140322
 teapot16.wad | Demo map and teapot with 16 rotations (also with indication of angle and sprite name). | @JNechaevsky | https://github.com/fabiangreffrath/crispy-doom/issues/152#issuecomment-280902515
 transparent_textures.wad | Transparent textures used as an upper or lower texture, or on a 1-sided wall as a mid texture, produce visual glitches from undefined results. | @kitchen-ace | https://github.com/fabiangreffrath/crispy-doom/issues/23
